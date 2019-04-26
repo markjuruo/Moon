@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              markjuruo
+bio:                'markjuruo'
+description:        "记录生活"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
